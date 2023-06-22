@@ -1,6 +1,4 @@
-## Steps
-
-#### Setup
+#### Info
 
 Modelo de exibição de passeios em locais turísticos.
 
@@ -24,5 +22,5 @@ Button que ao ser clicado, expande a descrição do passeio.
 
 Há um button para refresh da lista quando todos os passeios forem excluídos
 
-# Adptações
+### Adptações
 Daniel mpm
