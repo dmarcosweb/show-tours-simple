@@ -1,4 +1,4 @@
-# show-tours-simple
+# show-tours-simple React JS
 Simples exibição de passeios turísticos
 
 # Tecnologias
