@@ -1,7 +1,3 @@
-## Figma URL
-
-[Tours](https://www.figma.com/file/OnLoM3AzBFaHzSc2iolJS0/Tours?node-id=0%3A1&t=wiRXOlTLN5ehekYI-1)
-
 ## Steps
 
 #### Setup
@@ -27,3 +23,6 @@ Button que ao ser clicado, expande a descrição do passeio.
 #### Re-fetch Tours
 
 Há um button para refresh da lista quando todos os passeios forem excluídos
+
+# Adptações
+Daniel mpm
